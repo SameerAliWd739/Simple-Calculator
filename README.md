@@ -25,8 +25,3 @@ calculator/
 ├── style.css
 ├── script.js
 └── README.md
-## 📦 How to Use
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/SameerAliWd739/calculator.git
